@@ -29,7 +29,7 @@ I am a second-year Aerospace Engineering student working to strengthen my fundam
 
 Through this repository, I implement core algorithms from scratch to better understand their mathematical foundations and practical behavior.
 
-The repository will continue to grow as I advance in my undergraduate studies and develop deeper technical skills.
+The repository will continue to grow as I progress through my undergraduate studies and expand my technical competence in aerospace engineering.
 
 ## Author
 
