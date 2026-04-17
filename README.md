@@ -27,3 +27,13 @@ This repository serves as a structured archive of my engineering computations an
 
 Author: Yaşar Emirhan Metin  
 Aerospace Engineering Student
+
+---
+
+## About Me
+
+I am a second-year Aerospace Engineering student focused on strengthening my fundamentals in numerical methods, linear algebra, and computational problem solving.
+
+This repository reflects my effort to build a solid technical foundation by implementing core algorithms from scratch and understanding their mathematical background.
+
+I am continuously expanding this repository as I progress through my undergraduate studies.
