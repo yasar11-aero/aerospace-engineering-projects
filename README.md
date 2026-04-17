@@ -12,11 +12,13 @@ The repository includes:
 - Eigenvalue computation (Power Method)
 - Interpolation methods
 - Engineering-oriented computational analysis
+- Basic aerodynamic calculations (Reynolds number, Lift estimation)
 - Future aerodynamic and CFD studies
 
 ## Technical Stack
 
 - MATLAB
+- Basic Aerodynamics
 - Numerical Analysis
 - Engineering Mathematics
 - Computational Methods
