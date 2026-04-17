@@ -1,5 +1,5 @@
 %% Aerodynamic Basic Calculations
-% Reynolds Number and Lift Force Estimation
+% Reynolds Number, Flow Regime and Lift Estimation
 
 clc;
 clear;
@@ -18,10 +18,18 @@ alpha_deg = 5;        % Angle of attack (degrees)
 
 Re = (rho * V * L_char) / mu;
 
+%% Flow Regime Estimation
+
+if Re < 5e5
+    flow_regime = "Laminar-dominant (likely pre-transition)";
+else
+    flow_regime = "Transitional / Turbulent-dominant";
+end
+
 %% Lift Coefficient (Thin Airfoil Theory)
 
 alpha_rad = deg2rad(alpha_deg);
-CL = 2 * pi * alpha_rad;
+CL = 2 * pi * alpha_rad;    % Valid for small angles (linear region)
 
 %% Lift Force Calculation
 
@@ -31,5 +39,6 @@ Lift = 0.5 * rho * V^2 * S * CL;
 
 disp('--- Aerodynamic Results ---')
 fprintf('Reynolds Number: %.2e\n', Re);
+fprintf('Estimated Flow Regime: %s\n', flow_regime);
 fprintf('Lift Coefficient (CL): %.4f\n', CL);
 fprintf('Lift Force (N): %.2f\n', Lift);
