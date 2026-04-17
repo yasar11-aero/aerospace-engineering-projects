@@ -7,7 +7,9 @@ This repository contains MATLAB-based numerical methods implementations and aero
 The repository includes:
 
 - Root finding algorithms (Bisection, Newton-Raphson, Fixed Point Iteration)
-- Numerical linear algebra methods (Gauss Elimination)
+- Numerical linear algebra methods (Gauss Elimination, LU Decomposition)
+- Iterative methods for linear systems (Jacobi, Gauss-Seidel)
+- Eigenvalue computation (Power Method)
 - Interpolation methods
 - Engineering-oriented computational analysis
 - Future aerodynamic and CFD studies
@@ -40,6 +42,8 @@ My long-term objective is to specialize in computational mechanics, numerical si
 I aim to develop strong expertise in mathematical modeling, algorithm design, and simulation-based analysis to contribute to advanced aerospace platforms and mission-critical systems.
 
 In the coming years, I plan to expand this repository with more advanced implementations such as CFD fundamentals, stability analysis, eigenvalue-based structural methods, and applied aerospace simulations.
+
+---
 
 ## Author
 
