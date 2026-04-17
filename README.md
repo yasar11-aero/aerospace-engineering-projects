@@ -21,19 +21,17 @@ The repository includes:
 
 ## Purpose
 
-This repository serves as a structured archive of my engineering computations and numerical method implementations, with a focus on aerospace applications.
-
----
-
-Author: Yaşar Emirhan Metin  
-Aerospace Engineering Student
-
----
+This repository serves as a structured archive of my engineering computations and numerical method implementations, with a focus on aerospace-related applications.
 
 ## About Me
 
-I am a second-year Aerospace Engineering student focused on strengthening my fundamentals in numerical methods, linear algebra, and computational problem solving.
+I am a second-year Aerospace Engineering student working to strengthen my fundamentals in numerical methods, linear algebra, and computational problem solving.
 
-This repository reflects my effort to build a solid technical foundation by implementing core algorithms from scratch and understanding their mathematical background.
+Through this repository, I implement core algorithms from scratch to better understand their mathematical foundations and practical behavior.
 
-I am continuously expanding this repository as I progress through my undergraduate studies.
+The repository will continue to grow as I advance in my undergraduate studies and develop deeper technical skills.
+
+## Author
+
+Yaşar Emirhan Metin  
+Aerospace Engineering Student
